@@ -5,7 +5,7 @@ using namespace std;
 const int PEOPLE_PER_COKE_CASE = 6;
 const int PEOPLE_PER_TABLE_CASE = 6;
 const double PEOPLE_PER_WATER_CASE = 2;
-const int CARD_PRICE = 200;
+const int CARD_PRICE = 2000;
 const int WATER_PRICE = 20;
 const int COKE_PRICE = 30;
 void menu();
